@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "custom-mouse-leave-behavior", "custom-mouse-leave-behavior\custom-mouse-leave-behavior.csproj", "{C878F196-1D38-4D1C-AE27-C61DB84447D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C878F196-1D38-4D1C-AE27-C61DB84447D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C878F196-1D38-4D1C-AE27-C61DB84447D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C878F196-1D38-4D1C-AE27-C61DB84447D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C878F196-1D38-4D1C-AE27-C61DB84447D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF856F14-0A75-4606-BD0C-D8CB4857987E}
+	EndGlobalSection
+EndGlobal
